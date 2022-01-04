@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains code to accompany my [How To Use Transformers To Automatically Generate Stories In Rasa] blog post on Medium.
+This repository contains code to accompany my [How To Use Transformers To Automatically Generate Stories In Rasa](https://pub.towardsai.net/how-to-use-transformers-to-automatically-generate-stories-in-rasa-8feaffa8bd27) blog post on Medium.
 
 # Prerequisites
 1. Docker
